@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddd81343-a9df-430a-ba55-46ce5cc8472a" name="Default" comment="" />
+    <list default="true" id="ddd81343-a9df-430a-ba55-46ce5cc8472a" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\description.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_springframework_spring_aop_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_springframework_spring_beans_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_springframework_spring_context_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_springframework_spring_core_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_springframework_spring_expression_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\libraries\Maven__org_springframework_spring_test_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\SpringAnnotated.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\HelloApp.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\controller\TestController.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\dao\ITestDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\dao\TestDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\dto\TestDto.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\model\TestEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\service\ITestService.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\java\com\babel\service\TestService.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\resources\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\resources\spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\SpringApp.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\HelloApp.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\controller\TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\dao\ITestDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\dao\TestDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\dto\TestDto.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\model\TestEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\service\ITestService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\com\babel\service\TestService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\classes\spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringTutorialAnnotation.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\SpringXML.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\HelloApp.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\controller\TestController.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\dao\ITestDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\dao\TestDao.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\dto\TestDto.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\model\TestEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\service\ITestService.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\java\com\babel\service\TestService.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\resources\controllers.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\resources\daos.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\resources\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\src\main\resources\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\SpringApp.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\HelloApp.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\controller\TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\dao\ITestDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\dao\TestDao.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\dto\TestDto.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\model\TestEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\service\ITestService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\com\babel\service\TestService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\controllers.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\daos.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\classes\services.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Spring\SpringTutorialAnnotation\SpringXML\target\maven-archiver\pom.properties" afterPath="" />
+    </list>
     <ignored path="tutoriales.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,7 +110,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,7 +120,7 @@
       <file leaf-file-name="TestDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpringXML/src/main/java/com/babel/dao/TestDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5925926">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SpringAnnotated/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="0" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.42857143">
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -72,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpringXML/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64285713">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -147,6 +224,9 @@
         <option value="spring-beans.schema" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -243,7 +323,7 @@
     <option name="width" value="1374" />
     <option name="height" value="916" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -267,13 +347,13 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SpringTutorialAnnotation" />
+              <option name="myItemId" value="SpringTutorial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,7 +369,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringXML/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29655173" />
@@ -308,7 +388,7 @@
       <recent name="D:\Spring\SpringTutorialAnnotation\SpringAnnotated\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloApp Annotated">
+  <component name="RunManager" selected="Application.HelloApp XML">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -689,12 +769,13 @@
       <option name="number" value="Default" />
       <updated>1460443815863</updated>
       <workItem from="1460443821544" duration="3853000" />
-      <workItem from="1460447878935" duration="3369000" />
+      <workItem from="1460447878935" duration="4003000" />
+      <workItem from="1460451926211" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7222000" />
+    <option name="totallyTimeSpent" value="7989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="-8" width="1374" height="916" extended-state="6" />
@@ -713,13 +794,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.195586" sideWeight="0.5089286" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.195586" sideWeight="0.49107143" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25342464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27245054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40974966" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.195586" sideWeight="0.5089286" order="1" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -736,11 +817,99 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/java/com/babel/HelloApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/java/com/babel/dao/TestDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAnnotated/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAnnotated/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="89" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/java/com/babel/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/resources/controllers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAnnotated/src/main/java/com/babel/HelloApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAnnotated/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/resources/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SpringAnnotated/src/main/java/com/babel/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.555555">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,13 +985,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringXML/src/main/java/com/babel/dao/TestDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5925926">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -831,10 +1001,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringAnnotated/pom.xml">
+    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="15" selection-start-column="8" selection-end-line="26" selection-end-column="0" />
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -847,10 +1017,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringXML/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/SpringAnnotated/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64285713">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.42857143">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -907,12 +1077,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SpringXML</last-edited>
+          <last-edited>Spring|SpringXML</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.29655173" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
